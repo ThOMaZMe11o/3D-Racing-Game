@@ -17,11 +17,10 @@ JavaScript: Lógica do jogo, física, e interatividade.
 
 🕹️ Como Jogar
 Clone o repositório:
-
-bash
-Copiar código
+```
 git clone https://github.com/seu-usuario/3d-racing-game.git
-Abra o arquivo index.html em seu navegador.
+```
+Abra o arquivo ```index.html```em seu navegador.
 
 Controles:
 
