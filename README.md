@@ -18,7 +18,7 @@ JavaScript: Lógica do jogo, física, e interatividade.
 ## Como Jogar 🕹️
 Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/3d-racing-game.git
+git clone https://github.com/ThOMaZMe11o/3D-Racing-Game
 ```
 Abra o arquivo ```index.html```em seu navegador.
 
